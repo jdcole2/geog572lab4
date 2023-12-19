@@ -1,0 +1,23 @@
+div {
+	background-color: #000;
+	}
+
+	p {
+		color: #999;
+	}
+
+	#div-main {
+	background-color: #666;
+	}
+	
+	#div-main p {
+	color: #000;
+	}
+
+	.div-special {
+	background-color: #333;
+	}
+
+	.div-special p {
+	color: #ccc;
+}
